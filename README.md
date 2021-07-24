@@ -5,3 +5,4 @@ Is there a correlation between strikeouts and home runs? 홈런이 많으면, �
 
 이에, 간단한 회귀분석과 상관계수 분석을 통해 이를 분석해보았다. 홈런 순위가 아닌 홈런 개수와, 스탯티즈에서 제공하는 홈런%를 사용했기 때문에 스피어만 상관계수가 아닌, 피어슨의 상관계수를 사용했다. 간단한 프로젝트지만 사용된 csv파일은 모두 직접 제작했으며, 파이썬을 이용하여 회귀분석을 진행하였다.
 
+분석:https://blog.naver.com/fishingest/222444416326
